@@ -16,5 +16,8 @@
     "http-server": "^0.8.5",
     "lodash": "^3.10.1",
     "opener": "^1.4.1"
+  },
+  "scripts" : {
+    "start" : "node node_modules/grunt-cli/bin/grunt"
   }
 }
